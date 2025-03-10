@@ -1,0 +1,19 @@
+{
+  "name": "discord-ai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "deepai": "^1.0.23",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "firebase-admin": "^13.2.0",
+    "openai": "^4.86.2"
+  }
+}
