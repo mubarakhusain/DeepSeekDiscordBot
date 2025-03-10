@@ -75,5 +75,3 @@ client.on('messageCreate', async (message) => {
 client.login(process.env.DISCORD_TOKEN);
 
 
-require('dotenv').config();
-console.log("DeepSeek API Key:", DEEPSEEK_API_KEY);
